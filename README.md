@@ -1,4 +1,3 @@
-# ZioYou 그라파나(Grafana)와 n8n and 지오폼(GeoForm)
 # ZioYou-Conf-2
 (주)지오유의 발표를 듣고 배운 점과 강의에 대해 기록한 문서입니다. (2025/09/05)
 <hr>
